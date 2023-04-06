@@ -9,6 +9,7 @@
 ### Networking
 
 - [ARP Protocol Definition](networking/arp-protocol-definition.md)
+- [Ports 0 to 1024](networking/ports-0-1024.md)
 
 ### Recon
 
